@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1301853128 source:/home/pete/projects/TheoraTest/main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	"theora/theoradec.h"
+	"ogg/ogg.h"
+
